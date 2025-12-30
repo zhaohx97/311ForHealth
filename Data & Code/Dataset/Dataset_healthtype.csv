@@ -1,0 +1,22 @@
+,measure,category
+0,ARTHRITIS,Health Outcomes
+1,BPHIGH,Health Outcomes
+2,CANCER,Health Outcomes
+3,CASTHMA,Health Outcomes
+4,CHD,Health Outcomes
+5,COPD,Health Outcomes
+6,DIABETES,Health Outcomes
+7,HIGHCHOL,Health Outcomes
+8,KIDNEY,Health Outcomes
+9,OBESITY,Health Outcomes
+10,STROKE,Health Outcomes
+11,BINGE,Health Risk Behaviors
+12,CSMOKING,Health Risk Behaviors
+13,LPA,Health Risk Behaviors
+14,SLEEP,Health Risk Behaviors
+15,MHLTH,Health Status
+16,PHLTH,Health Status
+17,ACCESS2,Prevention
+18,CHECKUP,Prevention
+19,CHOLSCREEN,Prevention
+20,DENTAL,Prevention
